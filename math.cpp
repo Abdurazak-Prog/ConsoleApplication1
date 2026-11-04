@@ -9,7 +9,7 @@ int multiply(int a, int b)
 int math()
 {
 	cout << "----Application started----\n";
-	cout << "10 * 2 = " << multiply(7, 5) << endl;	
+	cout << "10 * 2 = " << multiply(10, 2) << endl;	
 
 	return 0;
 }
