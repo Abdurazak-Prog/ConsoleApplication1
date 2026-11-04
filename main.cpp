@@ -3,6 +3,11 @@
 #include "secret.h"
 using namespace std;
 
+void test()
+{
+    cout << "cherry-pick concept" << endl;
+}
+
 int main()
 {
     cout << "Application Started!" << endl;
